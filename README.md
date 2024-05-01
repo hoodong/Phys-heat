@@ -1,6 +1,9 @@
 ## 열역학 공부
 - 서울대 황농문 교수, 엔트로피 법칙 - 우주 절대 불변의 진리, K-MOOC
 - https://lms.kmooc.kr/course/view.php?id=12482
+- 강의 특징
+  - TODO
+
 
 # TOC
 1. 열역학 입문
