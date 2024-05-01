@@ -12,10 +12,7 @@
   - Gaskel, Introduction to the Thermodynamics of Materials, 3ed, 1995 (어떤 edition이라도 무관)
   - DeHoff, Thermodynamics in Material Science, 1993 (통계 열역학 설명이 좋음)
   - Fenn, Engine, Energy, and Entropy, 1982 (일반인을 위한 열역학, 수식 최소화하고 물리적 의미를 설명, 노벨상 수상자)
-  - Kondepudi & Prigogine, Mordern Thermodynamics, 1998 
-
-
-
+  - Kondepudi & Prigogine, Mordern Thermodynamics, 1998 (역사)
 
 # TOC
 - 1-4 주차 
@@ -36,8 +33,8 @@
   - 엔트로피의 물리적 의미
 - 14주차 
   - 다양항 분야에 적용되는 엔트로피
-- 엔트로피 법칙과 속도론 법칙
-- 모든 현상의 궁극의 법칙  
+  - 엔트로피 법칙과 속도론 법칙
+  - 모든 현상의 궁극의 법칙  
 
 # 1. 열역학 입문
 # 2. 이상기체 방정식과 엔진
